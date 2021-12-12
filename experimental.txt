@@ -1,4 +1,0 @@
-.gitignore
-experimental.txt
-log.log
-num
